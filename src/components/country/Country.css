@@ -1,0 +1,27 @@
+.country{
+    border: 2px solid tomato;
+    padding: 10px;
+    border-radius: 15px;
+}
+.country-visited{
+    background-color: lightblue;
+    color: white;
+}
+.btn-visited{
+    background: #969090;
+    color: white;
+}
+
+.btn-visited:hover{
+    background: #882b2b;
+}
+
+.country-not-visited{
+    background-color: lightgray;
+    color: black;
+}
+
+.btn-not-visited{
+    background: #e4c9c9;
+    color: rgb(50, 48, 48);
+}
